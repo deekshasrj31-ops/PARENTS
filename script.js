@@ -39,7 +39,7 @@ function createHeart(){
 
 }
 
-setInterval(createHeart,200);
+setInterval(createHeart,120);
 
 
 /* COUNTDOWN */
